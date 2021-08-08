@@ -11,7 +11,7 @@ body {
 }
 
 button {
-  font-size: 7px;
+  font-size: 1em;
 }
 
 #main-content {
@@ -34,4 +34,17 @@ button {
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
+}
+
+
+.green {
+  background-color: green
+}
+
+.yellow {
+  background-color: yellow
+}
+
+.red {
+  background-color: red
 }
